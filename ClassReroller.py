@@ -71,4 +71,5 @@ b1.pack()
 mLabel.pack()
 
 # Just need this kappa
-m.mainloop()
+if __name__ == "__main__":
+    m.mainloop()
